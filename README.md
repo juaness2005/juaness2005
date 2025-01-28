@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**juaness2005/juaness2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Juan+Neves.+.+.&color=fff" alt="Typing SVG" /></a> </h1>
+<h1> Estudante de Programação</h1>
 
-Here are some ideas to get you started:
+- Cursando Tec DS Senai Leopoldina
+  
+- CPTM - DFHD 🚋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Projetos**:
+
+  
+- [Projeto Suporte TI](Aboutjuaness2005.github.io/cptm/)
+
+- [Projeto Biblioteca](https://juaness2005.github.io/obaBook/menu.html)
+
+  **Contatos**:
+  
+- [email](juangabriel4362767@gmail.com)
+
+- [Telefone](1194867-5113) 
